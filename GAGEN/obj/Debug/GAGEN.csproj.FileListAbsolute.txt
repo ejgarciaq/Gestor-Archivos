@@ -1,0 +1,12 @@
+C:\Users\ejgar\source\repos\Gestor Archivos GEN\GAGEN\bin\Debug\GAGEN.exe.config
+C:\Users\ejgar\source\repos\Gestor Archivos GEN\GAGEN\bin\Debug\GAGEN.exe
+C:\Users\ejgar\source\repos\Gestor Archivos GEN\GAGEN\bin\Debug\GAGEN.pdb
+C:\Users\ejgar\source\repos\Gestor Archivos GEN\GAGEN\obj\Debug\GAGEN.csprojAssemblyReference.cache
+C:\Users\ejgar\source\repos\Gestor Archivos GEN\GAGEN\obj\Debug\GAGEN.FrmMain.resources
+C:\Users\ejgar\source\repos\Gestor Archivos GEN\GAGEN\obj\Debug\GAGEN.Properties.Resources.resources
+C:\Users\ejgar\source\repos\Gestor Archivos GEN\GAGEN\obj\Debug\GAGEN.csproj.GenerateResource.cache
+C:\Users\ejgar\source\repos\Gestor Archivos GEN\GAGEN\obj\Debug\GAGEN.exe
+C:\Users\ejgar\source\repos\Gestor Archivos GEN\GAGEN\obj\Debug\GAGEN.pdb
+C:\Users\ejgar\source\repos\Gestor Archivos GEN\GAGEN\obj\Debug\GAGEN.FrmCrearCarpeta.resources
+C:\Users\ejgar\source\repos\Gestor Archivos GEN\GAGEN\obj\Debug\GAGEN.FrmCrearTxt.resources
+C:\Users\ejgar\source\repos\Gestor Archivos GEN\GAGEN\obj\Debug\GAGEN.csproj.CoreCompileInputs.cache
